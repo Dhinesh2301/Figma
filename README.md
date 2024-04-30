@@ -34,9 +34,8 @@ Figma
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-29 131158.png>)
-![alt text](<Screenshot 2024-04-29 131210.png>)
-![alt text](<Screenshot 2024-04-29 131220.png>)
-
+![alt text](<Screenshot 2024-04-30 071826.png>)
+![alt text](<Screenshot 2024-04-30 073222.png>)
+![alt text](<Screenshot 2024-04-30 073722.png>)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
